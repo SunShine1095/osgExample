@@ -13,6 +13,7 @@
 #include <sstream>
 
 
+
 #ifdef _DEBUG
 #pragma comment(lib, "osgd.lib")
 #pragma comment(lib, "osgViewerd.lib")
